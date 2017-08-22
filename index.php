@@ -315,31 +315,17 @@
     <!--Start Contact Section-->
     <section class="contact padding-style1" id="contact">
         <div class="contact-header">
-            <h4 class="section-title">GET IN TOUCH</h4>
+            <h4 class="section-title">LINKS TO MY PROJECT</h4>
         </div>
         <div class="contact-content">
             <div class="container">
                 <div class="row">
                     <div class="col-md-7">
                         <div class="contact-detail">
-                            <h6 class="mini-header">Contact</h6>
-                            <p style="color: #213">I'm available for contracts, so get in touch: </p>
-                            <div class="row contact-item">
-                                <p class="adress col-md-6">
-                                    <i class="fa fa-map-marker" aria-hidden="true"></i>
-                                    <span>Address:</span>Q-404 Abode Valley
-                                </p>
-                                <p class="phone col-md-6">
-                                    <i class="fa fa-phone" aria-hidden="true"></i>
-                                    <span>Contact no:</span>+91 7987199909
-                                </p>
-                                <p class="email col-md-6">
-                                    <i class="fa fa-envelope" aria-hidden="true"></i>
-                                    <span>Email:</span>amansharma33.as@gmail.com
-                                </p>
-                            </div>
-
-                          
+                            <h6 class="mini-header">FizzFlyer: <a href="https://fizzflyer.herokuapp.com/">https://fizzflyer.herokuapp.com/</h6>
+                            <h6 class="mini-header">SPI CARRERS: <a href="https://spicarrers.herokuapp.com/">https://spicarrers.herokuapp.com/</h6>
+                            <h6 class="mini-header">SRMADT: <a href="https://srmadt.herokuapp.com/">https://srmadt.herokuapp.com/</h6>
+                            <h6 class="mini-header">SRM-GPA-CALCULATOR: <a href="https://srmgpa.herokuapp.com/">https://srmgpa.herokuapp.com/</h6>
                         </div>
                     </div>
                 </div>
