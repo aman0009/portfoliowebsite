@@ -322,10 +322,11 @@
                 <div class="row">
                     <div class="col-md-7">
                         <div class="contact-detail">
-                            <h6 class="mini-header">FizzFlyer: <a href="https://fizzflyer.herokuapp.com/">https://fizzflyer.herokuapp.com/</h6>
-                            <h6 class="mini-header">SPI CARRERS: <a href="https://spicarrers.herokuapp.com/">https://spicarrers.herokuapp.com/</h6>
-                            <h6 class="mini-header">SRMADT: <a href="https://srmadt.herokuapp.com/">https://srmadt.herokuapp.com/</h6>
-                            <h6 class="mini-header">SRM-GPA-CALCULATOR: <a href="https://srmgpa.herokuapp.com/">https://srmgpa.herokuapp.com/</h6>
+
+                            <h6 class="mini-header" style="color: #3c3c3c">FizzFlyer: <a href="https://fizzflyer.herokuapp.com/">https://fizzflyer.herokuapp.com/</h6>
+                            <h6 class="mini-header" style="color: #3c3c3c">SPI CARRERS: <a href="https://spicarrers.herokuapp.com/">https://spicarrers.herokuapp.com/</h6>
+                            <h6 class="mini-header" style="color: #3c3c3c">SRMADT: <a href="https://srmadt.herokuapp.com/">https://srmadt.herokuapp.com/</h6>
+                            <h6 class="mini-header" style="color: #3c3c3c">SRM-GPA-CALCULATOR: <a href="https://srmgpa.herokuapp.com/">https://srmgpa.herokuapp.com/</h6>
                         </div>
                     </div>
                 </div>
