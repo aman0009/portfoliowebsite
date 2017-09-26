@@ -26,7 +26,15 @@
     <link rel="shortcut icon" href="images/amanfavicon.ico" />
     <script type="text/javascript" src="js/respond.js"></script>
 </head>
+    
+<style type="text/css">
+    .welcome-area.particle-bg {
+  position: relative;
+  background-size: cover!important;
+  background-color: indigo;
 
+}
+    </style>   
 <body>
 
     <!-- Start Preloader -->
