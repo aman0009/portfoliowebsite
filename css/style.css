@@ -83,7 +83,7 @@ canvas {
 .welcome-area.particle-bg {
   position: relative;
   background-size: cover!important;
-  background-color: black;
+  background-color: indigo;
 
 }
 

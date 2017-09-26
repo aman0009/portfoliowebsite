@@ -28,6 +28,7 @@
 </head>
 
 <body>
+
     <!-- Start Preloader -->
     <div class="preloader">
         <div class="preloader-img"></div>
@@ -98,7 +99,7 @@
                         <p style="color: #213">
                             I enjoy building everything from small business sites to rich interactive web apps.
                             I have a diverse set of skills, ranging from design, to HTML + CSS + Javascript, all the way to PHP, NODEJS and MVC framework development including Linux server administration.
-                            <a href="resume.pdf" target="_blank">DOWNLOAD MY CV<i class="fa fa-download" aria-hidden="true"></i>
+                            <a href="resume_new.pdf" target="_blank">DOWNLOAD MY CV<i class="fa fa-download" aria-hidden="true"></i>
                         </a>
                      
                 </div>
@@ -296,6 +297,12 @@
     </section>
     <!--End Portfolio Section-->
 
+<iframe 
+    width="350"
+    height="430" 
+    src="https://console.api.ai/api-client/demo/embedded/1369342c-f16b-44ac-b2d3-d36e5dedb2c3">
+</iframe>
+      
     <!--Start hire-me Section-->
     <section class="hire-me padding-style2" data-stellar-background-ratio="0.4" data-stellar-vertical-offset="90">
         <div class="container">
@@ -322,11 +329,12 @@
                 <div class="row">
                     <div class="col-md-7">
                         <div class="contact-detail">
-
-                            <h6 class="mini-header" style="color: #3c3c3c">FizzFlyer: <a href="https://fizzflyer.herokuapp.com/">https://fizzflyer.herokuapp.com/</h6>
-                            <h6 class="mini-header" style="color: #3c3c3c">SPI CARRERS: <a href="https://spicarrers.herokuapp.com/">https://spicarrers.herokuapp.com/</h6>
-                            <h6 class="mini-header" style="color: #3c3c3c">SRMADT: <a href="https://srmadt.herokuapp.com/">https://srmadt.herokuapp.com/</h6>
-                            <h6 class="mini-header" style="color: #3c3c3c">SRM-GPA-CALCULATOR: <a href="https://srmgpa.herokuapp.com/">https://srmgpa.herokuapp.com/</h6>
+                            
+                            <h6 class="mini-header"><span style="color: #213;">FizzFlyer:</span> <a href="https://fizzflyer.herokuapp.com/">https://fizzflyer.herokuapp.com/</h6>
+                            <h6 class="mini-header"><span style="color: #213;">SPI CARRERS:</span> <a href="https://spicarrers.herokuapp.com/">https://spicarrers.herokuapp.com/</h6>
+                            <h6 class="mini-header"><span style="color: #213;">SRMADT:</span> <a href="https://srmadt.herokuapp.com/">https://srmadt.herokuapp.com/</h6>
+                            <h6 class="mini-header"><span style="color: #213;">SRM-GPA-CALCULATOR:</span> <a href="https://srmgpa.herokuapp.com/">https://srmgpa.herokuapp.com/</h6>
+                            
                         </div>
                     </div>
                 </div>
