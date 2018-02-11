@@ -25,6 +25,7 @@
     <!---title logo icon-->
     <link rel="shortcut icon" href="images/amanfavicon.ico" />
     <script type="text/javascript" src="js/respond.js"></script>
+    <meta name="google-site-verification" content="GAHCSWBbnDZx9zcKlRnJw2LumeJQ6zZLpv6pr9rOAtk" />
 </head>
     
 <style type="text/css">
